@@ -1,7 +1,5 @@
 # MultithreadedChatApp
 
-
-# Description:
 This is a client-server chat application built using Java Soc.kets and Multithreading, enabling real-time communication between multiple clients. The server handles multiple clients concurrently using threads, allowing them to send and receive messages simultaneously.
 
 # Features:
